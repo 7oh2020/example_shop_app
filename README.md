@@ -2,6 +2,10 @@
 
 Google Analyticsのためのサンプルショップ
 
+![image_1](https://user-images.githubusercontent.com/75631138/109515247-38464f80-7aea-11eb-8a7b-a2f24f3bf72c.png)
+![image_2](https://user-images.githubusercontent.com/75631138/109515374-59a73b80-7aea-11eb-8d1b-f6f7745efb9c.png)
+![image_3](https://user-images.githubusercontent.com/75631138/109515517-822f3580-7aea-11eb-94ae-e39fd534f134.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
